@@ -1,0 +1,15 @@
+{
+  "name": "js-streams-example",
+  "version": "1.0.0",
+  "description": "NodeJS Streams Example",
+  "main": "server.js",
+  "scripts": {
+    "start": "npx tsc -w & node dist/server.js"
+  },
+  "keywords": [],
+  "author": "Francisco dos Santos",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
